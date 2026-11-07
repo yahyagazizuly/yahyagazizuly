@@ -6,7 +6,7 @@
   <a href="mailto:fagutlaxabit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/turan-yahya-gazizuly-b21056261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/QtewEtO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/tetttet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/tetttet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://instagram.com/yahyagazizuly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -27,7 +27,7 @@ Full-stack developer with 4+ years of experience building web platforms, e-comme
 <table>
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp,cs,php&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp,java,cs,php&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
@@ -54,6 +54,16 @@ Full-stack developer with 4+ years of experience building web platforms, e-comme
 | 2025 — 2026 | BOSSFORSKIY | Full-Stack Developer, e-commerce website |
 | 2025 | Adal Medicine | Full-Stack Developer, medical tourism platform & mobile apps |
 | 2025 | Tigris Group | Full-Stack Developer, corporate website & IT infrastructure |
+
+### LeetCode
+
+<p>
+  <b>2768</b> problems solved &nbsp;·&nbsp; <b>756</b> Hard &nbsp;·&nbsp; Rank <b>657</b> &nbsp;·&nbsp; <b>1000 Days</b> badge
+</p>
+
+<a href="https://leetcode.com/u/tetttet/">
+  <img src="https://leetcard.jacoblin.cool/tetttet?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+</a>
 
 ### GitHub stats
 
