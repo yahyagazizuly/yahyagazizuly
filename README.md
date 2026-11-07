@@ -6,7 +6,7 @@
   <a href="mailto:fagutlaxabit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/turan-yahya-gazizuly-b21056261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/QtewEtO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/tetttet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/yahyagazizuly/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://instagram.com/yahyagazizuly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -61,8 +61,8 @@ Full-stack developer with 4+ years of experience building web platforms, e-comme
   <b>2768</b> problems solved &nbsp;·&nbsp; <b>756</b> Hard &nbsp;·&nbsp; Rank <b>657</b> &nbsp;·&nbsp; <b>1000 Days</b> badge
 </p>
 
-<a href="https://leetcode.com/u/tetttet/">
-  <img src="https://leetcard.jacoblin.cool/tetttet?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+<a href="https://leetcode.com/u/yahyagazizuly/">
+  <img src="https://leetcard.jacoblin.cool/yahyagazizuly?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </a>
 
 ### GitHub stats
