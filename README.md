@@ -18,7 +18,7 @@
 
 Full-stack developer with 4+ years of experience building web platforms, e-commerce, booking systems and mobile apps — from architecture and backend to UI and deployment. Studying Computer Engineering at Uskudar University, Istanbul.
 
-- Currently working on [montecarlo-hermes](https://github.com/tetttet/montecarlo-hermes)
+- Currently working on [montecarlo-hermes](https://github.com/yahyagazizuly/montecarlo-hermes)
 - Interested in backend, data analysis and scalable systems
 - Languages: Kazakh, English (C2), Russian (C2), Turkish (A2)
 
@@ -68,5 +68,5 @@ Full-stack developer with 4+ years of experience building web platforms, e-comme
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=tetttet&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yahyagazizuly&theme=tokyonight&hide_border=true" />
 </div>
